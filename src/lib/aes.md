@@ -171,5 +171,8 @@ CLASS AES128:
     METHOD addStep(stage, description, state):
         Log the step with stage, description, state details, and current timestamp
         Append this step to steps list
+
+
+        END
         
 */
