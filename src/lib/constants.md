@@ -1,4 +1,4 @@
-/*
+```bash
 DEFINE AES CONSTANTS:
     Nb ← 4                       // Number of columns in AES state
     Nk ← 4                       // Number of 32-bit words in the key
@@ -47,4 +47,3 @@ DEFINE VISUALIZATION CONSTANTS:
 
     ERROR_MESSAGES:
         Error message strings for various invalid inputs (e.g., invalid key length, missing IV, etc.)
-*/
