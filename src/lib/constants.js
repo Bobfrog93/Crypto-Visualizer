@@ -5,13 +5,12 @@
 // AES S-Box
 
 
-//
-
 
 // AES S-Box Inverse
 
 
 // AES Constants - Key Expansion
+
 
 // Mix-Column Matrix 
 
